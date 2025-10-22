@@ -109,10 +109,14 @@ GitHub: @EangDev
 ----------------------------------------------------------
 
 🧑‍💻 Contacts:
- email : eangdev.gamedev@gmail.com
- youtube channel : @eang3301
- itch.io : https://eangdev.itch.io/
- facebook page : profile.php?id=61569523768463
+
+email : eangdev.gamedev@gmail.com
+
+youtube channel : @eang3301
+
+itch.io : https://eangdev.itch.io/
+
+facebook page : EangDev
  
 ----------------------------------------------------------
 
