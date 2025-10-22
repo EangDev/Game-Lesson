@@ -108,6 +108,18 @@ GitHub: @EangDev
 
 ----------------------------------------------------------
 
+🧑‍💻 Contacts:
+
+email : eangdev.gamedev@gmail.com
+
+youtube channel : @eang3301
+
+itch.io : https://eangdev.itch.io/
+
+facebook page : EangDev
+ 
+----------------------------------------------------------
+
 💡 Future Plans
 
 Add new levels
