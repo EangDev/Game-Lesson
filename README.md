@@ -42,7 +42,7 @@ Clone or download this repository.
 
   https://github.com/EangDev/Game-Lesson.git
   
-Open the project in Unity (use version X.X.X or newer).
+Open the project in Unity (use version 2022.3.35f1).
 Press ▶️ Play in the Unity Editor.
 
 Use the controls:
