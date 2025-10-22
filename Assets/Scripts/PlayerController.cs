@@ -4,10 +4,10 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
-    public float speed = 5.0f;
-    public float turnSpeed;
-    public float horizontalInput;
-    public float forwardInput;
+    private float speed = 20f;
+    private float turnSpeed = 45f;
+    private float horizontalInput;
+    private float forwardInput;
 
     // Update is called once per frame
     void Update()
@@ -15,9 +15,13 @@ public class PlayerController : MonoBehaviour
         horizontalInput = Input.GetAxis("Horizontal");
         forwardInput = Input.GetAxis("Vertical");
 
-        // Move the vehicle forward
+        // Moves the car forward based on vertical input
         transform.Translate(/*0, 0, 1*/ Vector3.forward * Time.deltaTime * speed * forwardInput);
+
+        // Rotates the car based on horizontal input
         transform.Rotate(Vector3.up, turnSpeed * horizontalInput * Time.deltaTime);
+
+        // This line of code the can turn the vehicle but it just the slide turn, so i use the Rotate method instead
         //transform.Translate(Vector3.right * Time.deltaTime * turnSpeed * horizontalInput);
     }
 }
