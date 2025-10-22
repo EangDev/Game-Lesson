@@ -40,7 +40,7 @@ Through this project, I learned:
 
 Clone or download this repository.
 
-  git clone https://github.com/yourusername/your-project-name.git
+  https://github.com/EangDev/Game-Lesson.git
   
 Open the project in Unity (use version X.X.X or newer).
 Press ▶️ Play in the Unity Editor.
